@@ -16,4 +16,13 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 
 ## The projects
 
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-databases-01-annotations
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-databases-02-diy-crud
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-databases-03-param-converter
+
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-databases-04-gen-crud
+
 - 
+
