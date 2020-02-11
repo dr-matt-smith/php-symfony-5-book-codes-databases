@@ -24,5 +24,6 @@ https://github.com/dr-matt-smith/php-symfony-5-book-codes
 
 - https://github.com/dr-matt-smith/php-symfony-5-book-codes-databases-04-gen-crud
 
-- 
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-databases-05-fixtures
 
+- https://github.com/dr-matt-smith/php-symfony-5-book-codes-databases-06-faker-fixtures
